@@ -49,10 +49,7 @@ a+a {
 }
 
 .wave {
-    position: absolute;
-    width: 1024px;
+    width: 100%;
     height: 104px;
-    left: 1024px;
-    top: 686px;
-
+    margin: 40.83px auto 0;
 }
